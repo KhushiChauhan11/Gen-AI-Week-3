@@ -1,0 +1,6 @@
+Salary overview:
+• Monthly salary × 12 = Annual salary.
+• Deductions: tax, provident fund (PF), professional tax.
+• Net salary = Gross salary − deductions.
+• Payslip components: basic, HRA, allowances, overtime (if any).
+• Example: If monthly 50000, annual is 600000 before deductions.

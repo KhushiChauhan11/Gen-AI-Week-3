@@ -1,0 +1,6 @@
+Insurance policy guide:
+• Coverage: hospitalization, outpatient (OPD) limits, and defined sum insured.
+• Premium: employee's share may be deducted monthly; employer may co-pay.
+• Claims: cashless at network hospitals; reimbursement otherwise.
+• Exclusions: cosmetic procedures, pre-existing waiting periods.
+• Claim workflow: inform TPA, provide ID, submit bills and discharge summary.
